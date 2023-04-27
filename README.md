@@ -21,7 +21,7 @@
 
 - :seedling: Exploring New Frameworks for myself.
 
-- :zap: In my free time, I paly on bass guitar in band.
+- :zap: In my free time, I play on bass guitar in band.
 
 ---
 
